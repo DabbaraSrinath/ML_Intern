@@ -9,7 +9,7 @@ As part of my Machine Learning internship with Bharat Intern, I used this reposi
 
 "Machine Learning model to predict house price using linear regression only Jupyter notebook code.."
 
-Dataset : 
+Dataset : https://od.lk/f/MThfNDI3NjIzNTlf
 
 **TASK : 2** 
 
@@ -19,7 +19,7 @@ Dataset :
 
 "Machine Learning model to predict the quality of wine using linear regression only Jupyter notebook code."
 
-Dataset : 
+Dataset : https://od.lk/f/MThfNDI3NjIzMzlf
 
 **TASK : 3**
 
@@ -29,4 +29,4 @@ Dataset :
 
 "Predict the different species of flowers on the length of there petals and sepals only Jupyter notebook code."
 
-Dataset :
+Dataset : https://od.lk/f/MThfNDI3NjIzNzdf
